@@ -1,0 +1,30 @@
+.th {
+    background-color: #fff;
+    color: #0000ff;
+    font-size: 16px;
+}
+
+.custom-table thead tr {
+    border-top: none !important;
+    border-bottom: none !important;
+}
+
+.table tbody .primary   {
+    color: #969191;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 20px 8px !important
+}
+
+.td-primary {
+    color: #000;
+}
+
+.table tbody td  {
+    padding: 20px 8px !important;
+}
+
+.btn    {
+    background-color: #FFF !important;
+    width: 40px;
+}
